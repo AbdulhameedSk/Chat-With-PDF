@@ -1,6 +1,4 @@
-Here's a complete `README.md` for your **"Chat with PDF using Gemini Pro (2.5)"** project:
 
----
 
 ## 🧠 Chat with PDF using Google Gemini Pro (2.5) + LangChain
 
