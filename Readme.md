@@ -47,7 +47,7 @@ RAG is a way to enhance language models by allowing them to search external sour
 
 ### Fine-Tuning and Retrieval-Augmented Generation (RAG) Flowchart
 
-<img src="image.png">
+<img src="image-1.png">
 
 ## Summary
 
@@ -182,5 +182,6 @@ ask_pdf("Summarize the document")
 MIT License – free to use, modify, and share.
 
 ---
+
 
 
